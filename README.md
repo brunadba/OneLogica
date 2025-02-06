@@ -1,4 +1,3 @@
-Amigo Secreto
 Este é um projeto de Amigo Secreto desenvolvido para facilitar o sorteio de amigos para a tradicional brincadeira, onde cada participante recebe o nome de outra pessoa para presentear. O projeto oferece uma maneira simples e prática de organizar e realizar o sorteio de forma digital.
 
 Funcionalidades
